@@ -8,5 +8,5 @@ PDMs covered by this scripts contain the following attributes per task:
 - Early finish date (EFD)
 - Late start date (LSD)
 - Late finish date (LFD)
-- Slack: Time this task can be delayed, without delaying the LSD of successors
-- Free buffer: Time this task can be delayed, without delaying the ESD of successors
+- Slack: Time the task can be delayed, without delaying the LSD of successors
+- Free buffer: Time the task can be delayed, without delaying the ESD of successors
